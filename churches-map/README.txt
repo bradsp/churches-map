@@ -8,7 +8,7 @@ Stable tag: 4.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Allows placing a Google Map on a page to show churches in the area. Gets the list from a Pods.io advanced custom post type. This Pods.IO custom type must be built for this plugin to work. Based on Boilerplate.
 
 == Description ==
 
